@@ -120,7 +120,7 @@ A hands-on project exploring AES encryption in network communication scenarios.
 <h3>🌐 Connect</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/anjalishukla2609/">
+<a href="https://www.linkedin.com/in/anjalishukla2609/">
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:shuklaanjali059@gmail.com">
